@@ -1,0 +1,6 @@
+フレーム工房（ウェブ版）が使っている部品
+
+- three.js：MIT License（vendor/LICENSE-three.txt）
+- manifold：Apache License 2.0（vendor/LICENSE-manifold.txt）
+- occt-import-js：LGPL-2.1（vendor/license.occt-import-js.txt）。中の Open CASCADE Technology：LGPL-2.1 と例外（vendor/license.occt.txt）
+- Pyodide（jsDelivr から読み込み）：Mozilla Public License 2.0
